@@ -291,7 +291,7 @@
         
 - **✅ 결과물**
     
-    ![Screenshot 2025-06-05 at 12.20.37 PM.png](%F0%9F%9A%97%20Line%20Tracing%20RC%20Car%2021052859656b80e39b59d4469f0adc6a/551f0dd6-1e8d-4904-851c-58046c20de56.png)
+    ![Final Image](images/web.png)
     
 
 ### **🚗**RC Car 제어
