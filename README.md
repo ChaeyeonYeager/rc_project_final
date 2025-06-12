@@ -187,7 +187,7 @@
     - lower_black의 영역부터 upper_black의 영역까지만 mask에서 통과시킴
     - **V값의 범위 : 0~70**
         
-        ![Before Image](before.png)
+        ![Before Image](images/before.png)
 
         
     - **V값의 범위 : 0~110**
