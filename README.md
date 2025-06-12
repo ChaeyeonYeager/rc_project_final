@@ -3,6 +3,7 @@
 **이 프로젝트는 단순한 RC카를 넘어서, ‘영상 기반 라인트레이싱 + 수동 조작’이라는 하이브리드 제어 시스템을 구현하는 데 목적이 있습니다.**
 
 - **목표**: Raspberry Pi와 Arduino를 통합한 임베디드 시스템 구축 + 실시간 비전 알고리즘 적용
+- **참고 사항**: 레포지토리를 늦게 생성한 관계로 커밋은 최종 코드 소유자만 했습니다! 참고 부탁드립니다!
 
 ---
 
@@ -187,12 +188,11 @@
     - lower_black의 영역부터 upper_black의 영역까지만 mask에서 통과시킴
     - **V값의 범위 : 0~70**
         
-        ![Before Image](images/before.png)
-
+        <img src= "https://github.com/ChaeyeonYeager/rc_project_final/blob/main/images/before.png" width="700"/>
         
     - **V값의 범위 : 0~110**
         
-       ![After Image](images/after.png)
+        <img src= "https://github.com/ChaeyeonYeager/rc_project_final/blob/main/images/after.png" width="700"/>
         
 
 ### **🎯 중심 좌표 계산**
@@ -291,7 +291,7 @@
         
 - **✅ 결과물**
     
-    ![Final Image](images/web.png)
+    <img src= "https://github.com/ChaeyeonYeager/rc_project_final/blob/main/images/web.png" width="700"/>
     
 
 ### **🚗**RC Car 제어
@@ -411,7 +411,7 @@
     ```
     
 
-![Logic Image](images/logic.png)
+<img src= "https://github.com/ChaeyeonYeager/rc_project_final/blob/main/images/logic.png" width="400"/>
 
 | 변수명 | 설명 |
 | --- | --- |
@@ -445,7 +445,8 @@
 이 소스는 RC 조종기 기반의 수동 조작과 라즈베리파이에서 전달된 각도 정보 기반 자율주행을 모두 지원하는 이중 모드 아두이노 제어 시스템입니다.
 
 `CH5 스위치 (A 스위치)`를 통해 모드를 전환하며, LED 시그널 및 PWM 기반 모터/서보 제어 기능까지 포함되어 있습니다.
-![Circuit1 Image](images/circuit_1.jpeg)
+
+<img src= "https://github.com/ChaeyeonYeager/rc_project_final/blob/main/images/circuit_1.jpeg" width="400"/>
 
 | 핀 번호 | 기능 | 설명 |
 | --- | --- | --- |
@@ -459,7 +460,7 @@
 
 ### 수동모드 ← → 자율주행전환 방식
 
-![Circuit2 Image](images/at_9s.png)
+<img src= "https://github.com/ChaeyeonYeager/rc_project_final/blob/main/images/at_9s.png" width="700"/>
 
 | 조건 | 활성화 모드 |
 | --- | --- |
