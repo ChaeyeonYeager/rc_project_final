@@ -192,7 +192,7 @@
         
     - **V값의 범위 : 0~110**
         
-        ![Screenshot 2025-06-05 at 12.33.35 PM.png](%F0%9F%9A%97%20Line%20Tracing%20RC%20Car%2021052859656b80e39b59d4469f0adc6a/Screenshot_2025-06-05_at_12.33.35_PM.png)
+       ![After Image](images/after.png)
         
 
 ### **🎯 중심 좌표 계산**
