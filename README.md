@@ -187,7 +187,8 @@
     - lower_black의 영역부터 upper_black의 영역까지만 mask에서 통과시킴
     - **V값의 범위 : 0~70**
         
-        ![Screenshot 2025-06-05 at 12.21.23 PM.png](%F0%9F%9A%97%20Line%20Tracing%20RC%20Car%2021052859656b80e39b59d4469f0adc6a/Screenshot_2025-06-05_at_12.21.23_PM.png)
+        ![Before Image](before.png)
+
         
     - **V값의 범위 : 0~110**
         
