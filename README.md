@@ -257,8 +257,7 @@
     | 2. [처리 + 인코딩] |
     | 3. generate_frames() |
     | 4. /video 라우트 |
-    | 5. <img src="/video"> |
-    | 6. 브라우저에 실시간 표시 |
+    | 5. 브라우저에 실시간 표시 |
 - **✅ @app.route('/video') — MJPEG 스트리밍 라우터**
     - generate_frames() 함수가 이미지 프레임을 **무한 루프**로 지속 전송함.
     - **Code**
