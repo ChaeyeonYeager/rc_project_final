@@ -445,8 +445,7 @@
 이 소스는 RC 조종기 기반의 수동 조작과 라즈베리파이에서 전달된 각도 정보 기반 자율주행을 모두 지원하는 이중 모드 아두이노 제어 시스템입니다.
 
 `CH5 스위치 (A 스위치)`를 통해 모드를 전환하며, LED 시그널 및 PWM 기반 모터/서보 제어 기능까지 포함되어 있습니다.
-
-![KakaoTalk_20250611_161019433.jpg](%F0%9F%9A%97%20Line%20Tracing%20RC%20Car%2021052859656b80e39b59d4469f0adc6a/KakaoTalk_20250611_161019433.jpg)
+![Circuit1 Image](images/circuit_1.jpeg)
 
 | 핀 번호 | 기능 | 설명 |
 | --- | --- | --- |
@@ -460,7 +459,7 @@
 
 ### 수동모드 ← → 자율주행전환 방식
 
-![Screenshot 2025-06-11 at 2.28.01 PM.png](%F0%9F%9A%97%20Line%20Tracing%20RC%20Car%2021052859656b80e39b59d4469f0adc6a/Screenshot_2025-06-11_at_2.28.01_PM.png)
+![Circuit2 Image](images/at_9s.png)
 
 | 조건 | 활성화 모드 |
 | --- | --- |
